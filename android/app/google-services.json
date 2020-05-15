@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "581688622170",
+    "firebase_url": "https://e-commerce-e3ded.firebaseio.com",
+    "project_id": "e-commerce-e3ded",
+    "storage_bucket": "e-commerce-e3ded.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581688622170:android:e8ca6b919fc5f8bde1ac63",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581688622170-ch966lcadodk1def67st5p55cu5fn1ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWbhG08dhaOFsiVNe66xYpBvPiBQAh_G8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581688622170-ch966lcadodk1def67st5p55cu5fn1ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
